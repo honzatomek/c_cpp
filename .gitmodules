@@ -1,0 +1,3 @@
+[submodule "bin/c_kilo"]
+	path = bin/c_kilo
+	url = git@github.com:honzatomek/c_kilo.git
